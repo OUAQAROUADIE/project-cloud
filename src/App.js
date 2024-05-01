@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello ouadie
+          Hello INPT
         </a>
       </header>
     </div>
